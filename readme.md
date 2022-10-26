@@ -1,6 +1,6 @@
 # About ME 💬 :
 
-### - I'm 15 years old coding enthutiast from Thailand.
+### - I'm a 15 year old coding enthutiast from Thailand.
 
 
 
