@@ -1,17 +1,12 @@
 # About ME 💬 :
 
-### - I'm a 15 year old coding enthutiast from Thailand.
+### -
 
 
 
 ### - Learning :
 - ✨ Python
 - ✨ Lua 
-
-### - Hobbies : 
-- ✨ Gaming Addict
-- ✨ Watching Anime
-- ✨ Making stuff
 
 </br>
 </br>
