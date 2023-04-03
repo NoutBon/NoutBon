@@ -1,12 +1,11 @@
 # About ME 💬 :
 
-### -
+### - hi im bon bon
 
 
 
-### - Learning :
-- ✨ Python
-- ✨ Lua 
+### i like coding scripts and html websites
+still learning backend stuff though
 
 </br>
 </br>
@@ -19,6 +18,5 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoutBon)](https://github.com/anuraghazra/github-readme-stats)
 
 
