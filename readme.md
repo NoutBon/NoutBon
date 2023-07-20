@@ -4,8 +4,8 @@
 
 
 
-### i like coding scripts and html websites
-still learning backend stuff though
+### i like coding scripts and websites
+still learning stuff though
 
 </br>
 </br>
